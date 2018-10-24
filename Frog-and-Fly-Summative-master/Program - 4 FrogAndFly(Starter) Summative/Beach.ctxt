@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=Beach
+comment0.text=\r\n\r\n\ Name\:\ Hali\ Ayoade\r\n\r\n\ Class\:\ Software\ Development\ 10S\r\n\r\n\ Teacher\:\ ]Mr.\ Hardman\r\n\r\n\ Date\ Last\ Modified\:\ 10/23/2018\r\n
+comment1.params=
+comment1.target=Beach()
+comment1.text=\r\n\ Makes\ some\ the\ scoreboards\ functions\r\n\ Makes\ the\ score\ text\ be\ at\ the\ top-left\ part\ of\ the\ screen\r\n\ Makes\ the\ fly\ class\ appear\ in\ random\ spots\ everytime\r\n\ Makes\ the\ frog\ class\ appear\ in\ the\ middle\ of\ the\ screen\r\n
+comment2.params=n
+comment2.target=void\ addFood(int)
+comment2.text=\r\n\ Adds\ n\ Food\ objects\ to\ the\ world\r\n
+comment3.params=
+comment3.target=void\ addFrog()
+comment3.text=\r\n\ adds\ a\ frog\ in\ the\ middle\ of\ the\ world\r\n
+comment4.params=
+comment4.target=void\ update()
+comment4.text=\r\n\ adds\ numbers\ to\ the\ score\r\n\ the\ update\ is\ going\ to\ the\ fly\ class.\ So\ that\ when\ a\ fly\ touches\ fruit\ it\ adds\ on\ to\ the\ score.\r\n
+numComments=5
